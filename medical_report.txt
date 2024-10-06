@@ -1,0 +1,128 @@
+Patient Report:
+
+1. Patient Name: Karim
+   Symptoms:
+   - Abdominal pain and cramping
+   - Chronic diarrhea
+   - Fatigue
+
+2. Patient Name: Amina
+   Symptoms:
+   - Severe headaches
+   - Blurred vision
+   - Nausea and vomiting
+
+3. Patient Name: Yassine
+   Symptoms:
+   - Chest pain
+   - Shortness of breath
+   - Rapid heart rate
+
+4. Patient Name: Sara
+   Symptoms:
+   - Persistent cough
+   - Unexplained weight loss
+   - Night sweats
+
+5. Patient Name: Omar
+   Symptoms:
+   - Joint pain
+   - Stiffness
+   - Swelling
+
+6. Patient Name: Lina
+   Symptoms:
+   - High fever
+   - Sore throat
+   - Body aches
+
+7. Patient Name: Nour
+   Symptoms:
+   - Skin rash
+   - Itching
+   - Redness
+
+8. Patient Name: Hassan
+   Symptoms:
+   - Nausea
+   - Vomiting
+   - Dizziness
+
+9. Patient Name: Fatima
+   Symptoms:
+   - Fatigue
+   - Mood swings
+   - Sleep disturbances
+
+10. Patient Name: Ali
+   Symptoms:
+   - Chest tightness
+   - Coughing up blood
+   - Wheezing
+
+11. Patient Name: Maya
+   Symptoms:
+   - Severe abdominal bloating
+   - Gas
+   - Nausea
+
+12. Patient Name: Zaid
+   Symptoms:
+   - Rapid weight gain
+   - High blood pressure
+   - Fatigue
+
+13. Patient Name: Nadia
+   Symptoms:
+   - Frequent urination
+   - Thirst
+   - Fatigue
+
+14. Patient Name: Khalid
+   Symptoms:
+   - Memory loss
+   - Confusion
+   - Difficulty concentrating
+
+15. Patient Name: Jasmine
+   Symptoms:
+   - Muscle weakness
+   - Fatigue
+   - Difficulty swallowing
+
+16. Patient Name: Rami
+   Symptoms:
+   - Severe back pain
+   - Numbness in legs
+   - Difficulty walking
+
+17. Patient Name: Hala
+   Symptoms:
+   - Dry cough
+   - Shortness of breath
+   - Fatigue
+
+18. Patient Name: Samir
+   Symptoms:
+   - Joint swelling
+   - Morning stiffness
+   - Fatigue
+
+19. Patient Name: Dalia
+   Symptoms:
+   - Extreme thirst
+   - Frequent urination
+   - Fatigue
+
+20. Patient Name: Amir
+   Symptoms:
+   - Rapid heart rate
+   - Dizziness
+   - Fainting spells
+
+21. Patient Name: Layla
+   Symptoms:
+   - Severe anxiety
+   - Panic attacks
+   - Insomnia
+
