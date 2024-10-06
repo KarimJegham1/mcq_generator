@@ -1,1 +1,1 @@
-qsdqs
+This test application reads the symptoms of different patients and gives diagnosis for each one and finally give the first patient who needs medical attention
